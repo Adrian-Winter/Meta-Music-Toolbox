@@ -1,0 +1,3 @@
+music_tag==0.4.3
+requests==2.27.1
+selenium==4.8.2
