@@ -1,7 +1,8 @@
 # Meta-Music-Toolbox
 ## A collection of handy tools such as adding Key & BPM to your music library! 🎵
 
-### EXAMPLE: Renaming tracks according to current meta and then web scraping the KEY and BPM from tubebat.com .🔥 
+### EXAMPLE:
+### Renaming tracks according to current meta and then web scraping the KEY and BPM from tubebat.com .🔥 
 
 ![alt text](https://github.com/Adrian-Winter/Meta-Music-Toolbox/blob/main/MusicToolBoxShowcase.gif)
 
