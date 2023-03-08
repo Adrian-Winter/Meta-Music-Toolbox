@@ -3,7 +3,7 @@
 
 ### EXAMPLE: Renaming tracks according to current meta and then web scraping the KEY and BPM from tubebat.com .🔥 
 
-![alt text]()
+![alt text](https://github.com/Adrian-Winter/Meta-Music-Toolbox/blob/main/MusicToolBoxShowcase.gif)
 
 ## What can this application do? 👀
 ### This toolbox has currently the following functions:
@@ -19,9 +19,7 @@ I created this toolbox to help me sort my music library and add valuable informa
 ## What is web scraping? 🧐
 Web scraping is the process of collecting data from websites automatically using software tools. It's commonly used for market research, content aggregation, lead generation, and data analysis. However, it can be a sensitive activity legally and ethically, so it's important to be careful when scraping websites. In this application web scraping is used to gather metadata such as Key and BPM from the database used for the website tunebat.com. 
 
-![alt text]()
-
-
+![alt text](https://github.com/Adrian-Winter/Meta-Music-Toolbox/blob/main/tunebat%20database.png)
 
 ## Requirements 🔄
 ### In order to use this script you need:
@@ -52,7 +50,7 @@ If you check the __Hypen separation__ checkbox, it is assumed your filename has 
 
 Using the __sliders__ you can decide how close the match of your filename and the database of tunebat.com needs to be in order to be used. When Checking the __hypen separation__ button, it is assumed your filename is in the format __artist - trackname.mp3__ and therefore you can set thresholds for the artist match and trackname match individually. For my library an __artist  name thresh = 0.4 and track name thresh = 0.52__ worked very well. 
 
-If you don’t have your filenames in the format __artist - trackname.mp3__  you can simply uncheck the__Hypen separation__ checkbox and select a search accuracy of the whole filename compared to the artist+trackname of the tunebat.com database
+If you don’t have your filenames in the format __artist - trackname.mp3__  you can simply uncheck the __Hypen separation__ checkbox and select a search accuracy of the whole filename compared to the artist+trackname of the tunebat.com database
 
 
 
